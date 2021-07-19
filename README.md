@@ -11,4 +11,9 @@ What did you learn? To be quite honest I learned a lot, I really didnt fully und
 
 #### Link to Deployed Website
 https://sarah4coulson.github.io/scheduler/
-ow 
+
+#### Resources Used
+https://www.w3schools.com/html/html5_webstorage.asp
+https://www.w3schools.com/jsref/met_storage_getitem.asp
+https://www.section.io/engineering-education/how-to-use-localstorage-with-javascript/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
