@@ -168,3 +168,26 @@ if (sea === currentHr) {
   seventeen.classList.remove("past");
   seventeen.classList.add("future");
 }
+
+localStorage.setItem("hour-9");
+localStorage.setItem("hour-10");
+localStorage.setItem("hour-11");
+localStorage.setItem("hour-12");
+localStorage.setItem("hour-13");
+localStorage.setItem("hour-14");
+localStorage.setItem("hour-15");
+localStorage.setItem("hour-16");
+localStorage.setItem("hour-17");
+
+nine = localStorage.getItem("hour-9");
+ten = localStorage.getItem("hour-10");
+eleven = localStorage.getItem("hour-11");
+twelve = localStorage.getItem("hour-12");
+thirteen = localStorage.getItem("hour-13");
+fourteen = localStorage.getItem("hour-14");
+fifteen = localStorage.getItem("hour-15");
+sixteen = localStorage.getItem("hour-16");
+seventeen = localStorage.getItem("hour-17");
+
+//localStorage.setItem("lastname", "Smith");
+//document.getElementById("result").innerHTML = localStorage.getItem("lastname");
